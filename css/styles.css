@@ -107,3 +107,23 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
+
+.team-list {
+  background-color: #ffffff;
+}
+
+.footer-page {
+  background-color: #2e2f42;
+}
+
+.footer-logo {
+  color: #4d5ae5;
+}
+
+.footer-logo .logo-part {
+  color: #f4f4fd;
+}
+
+.footer-page .text-inside {
+  color: #f4f4fd;
+}
