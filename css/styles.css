@@ -1,6 +1,3 @@
-/* font-family: 'Raleway', sans-serif;
-font-family: "Roboto", sans-serif; */
-
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
@@ -49,9 +46,33 @@ a {
   color: #434455;
 }
 
+.main-page {
+  background-color: #2e2f42;
+}
+
+.main-text {
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.main-page-button {
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus {
+.contacts-link:focus,
+.main-page-button:hover,
+.main-page-button:focus {
   color: #404bbf;
 }
